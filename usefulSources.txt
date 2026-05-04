@@ -1,0 +1,7 @@
+Ive forgotten a lot of my sources cause i didnt write them down, 
+but I have a few of the most important ones.
+
+https://www.oscilloscopeclocknixiecrt.com/CRTdata.htm
+https://labguysworld.com/ES_CRT_DEFLECTION.htm
+https://www.youtube.com/watch?v=rSd64ysutrw
+https://www.hackster.io/mircemk/diy-simplest-small-crt-oscilloscope-9b3bb6
